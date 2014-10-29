@@ -335,3 +335,55 @@ h6 {
 
 }
 
+#primary_links {
+	height: 53px;
+	line-height: 53px;
+
+}
+
+#primary_links li {
+	display: inline;
+
+}
+
+#primary_links ul {
+	margin: 0px;
+
+}
+
+#primary_links .mid {
+	margin-left: 35px;
+	margin-right: 35px;
+}
+
+#primary_links a {
+	text-decoration: none;
+}
+
+#primary_links a:hover {
+	text-decoration: underline;
+
+#content {
+	width: 545px;
+	float: left;
+	padding-left: 24px;
+	padding-right: 24px;
+}
+
+p.first {
+	margin-top: 0px;
+}
+
+#article_title{
+	height: 87 px;
+	line-height: 87px;
+
+}
+
+
+#sidebar {
+	background-color: blue;
+	width: 367px;
+	float:left;
+	
+}
